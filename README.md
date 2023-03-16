@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Yehonatan Friedman
+
+
+<!--  https://img.shields.io/badge/https:/img.shields.io/badge/LinkedIn-blue -->
+
+I am a FullStack developer and Computer Science studnet 2nd year
+
+
 
 ### :fire: My Stats :
  
