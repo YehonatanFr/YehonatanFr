@@ -24,7 +24,7 @@
 
 ### :fire: My Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=YehonatanFr&theme=algolia&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=YehonatanFr&theme=algolia&show_icons=true) -->
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YehonatanFr&theme=dark&background=000000)](https://git.io/streak-stats)
 
