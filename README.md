@@ -2,15 +2,18 @@
 
 
 <!-- <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/yehonatan-friedman-7ab780277/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 </div> -->
 
+  <a href="www.linkedin.com/in/yehonatan-friedman-7ab780277/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
-- I am a FullStack developer and Computer Science studnet 2nd year
+- I am a Software Engineer developer and Computer Science studnet 2nd year
 
 - :mailbox:How to reach me: [   <a href="mailto:yonatanfr10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
