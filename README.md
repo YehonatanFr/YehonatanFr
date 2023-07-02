@@ -8,10 +8,11 @@
 
 </div> -->
 
-  <a href="www.linkedin.com/in/yehonatan-friedman-7ab780277/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/yehonatan-friedman"
 
 - I am a Software Engineer developer and Computer Science studnet 2nd year
 
