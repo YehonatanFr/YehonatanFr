@@ -11,7 +11,7 @@
 
 
 
-- I am a Software Engineer developer and Computer Science studnet 2nd year
+- I am a Software Engineer developer and Computer Science Studnet
 
 - :mailbox:How to reach me: [   <a href="mailto:yonatanfr10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
